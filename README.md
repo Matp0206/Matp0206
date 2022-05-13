@@ -2,7 +2,7 @@
   <img align="center" src="https://img.freepik.com/free-photo/ethereum-cryptocurrency-falling-coins-surrounded-by-gold-bars_336913-254.jpg?w=1060" style = "width: -webkit-fill-available;"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity%20Expert;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity%20Expert;Frontend%20Expert;React%20Master;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
 </p>
 <hr><div>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
